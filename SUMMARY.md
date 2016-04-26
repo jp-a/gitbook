@@ -6,5 +6,5 @@
 * [SVG Integration](docs/svg-integration.md)
    * [SVG with links](docs/svg_with_links.md)
        * [Report Job Opening](docs/report_job_opening.md)
-       * Write Job Description
+       * [Write Job Description](docs/write_job_description.md)
 
