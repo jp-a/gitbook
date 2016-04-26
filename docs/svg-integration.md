@@ -13,9 +13,5 @@
 ![Inkscape](inkscape.svg)
 ### And with Illustrator
 
-
-
-
-
-
+![Illustrator](illustrator.svg)
 
