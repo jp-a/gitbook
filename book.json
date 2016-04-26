@@ -11,5 +11,9 @@
     "structure": {
         "summary": "docs/SUMMARY.md"
     },
-    "pluginsConfig": {}
+    "pluginsConfig": {
+      "edit-link": {
+        "base": "base"
+      }
+    }
 }
