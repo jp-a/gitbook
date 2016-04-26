@@ -1,7 +1,7 @@
 {
-  "name": "gitbook-demo",
+  "name": "gitbook",
   "version": "1.0.0",
-  "description": "Welcome to my npm project",
+  "description": "Testing GitBook for project documentation",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -10,9 +10,9 @@
     "docs:prepare": "gitbook install",
     "docs:watch": "npm run docs:prepare && gitbook serve",
     "docs:build": "npm run docs:prepare && rm -rf _book && gitbook build",
-    "docs:publish": "npm run docs:build && cd _book && git init && git commit --allow-empty -m 'Update docs' && git checkout -b gh-pages && git add . && git commit -am 'Update docs' && git push git@github.com:gpbl/gitbook-demo gh-pages --force"
+    "docs:publish": "npm run docs:build && cd _book && git init && git commit --allow-empty -m 'Update docs' && git checkout -b gh-pages && git add . && git commit -am 'Update docs' && git push git@github.com:jp-a/gitbook gh-pages --force"
   },
-  "author": "gpbl <io@gpbl.org> (https://github.com/gpbl)",
+  "author": "jpa <jpa@avelto.com> (https://github.com/jp-a)",
   "license": "ISC",
   "devDependencies": {
     "gitbook-cli": "^1.0.0"
