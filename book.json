@@ -13,7 +13,8 @@
     },
     "pluginsConfig": {
       "edit-link": {
-        "base": "base"
-      }
+                "base": "https://github.com/jp-a/github/edit/BRANCH/path/to/book",
+                "label": "Edit This Page"
+            }
     }
 }
