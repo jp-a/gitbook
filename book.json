@@ -1,7 +1,15 @@
-{ 
-  "gitbook": "2.x.x",
-  "plugins": ["edit-link", "prism", "-highlight", "github", "anker-enable"],
-  "structure": { 
-    "summary": "docs/SUMMARY.md"
-  } 
+{
+    "gitbook": "2.x.x",
+    "plugins": [
+        "edit-link",
+        "prism",
+        "-highlight",
+        "github",
+        "anker-enable",
+        "image-captions"
+    ],
+    "structure": {
+        "summary": "docs/SUMMARY.md"
+    },
+    "pluginsConfig": {}
 }
