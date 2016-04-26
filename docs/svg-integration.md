@@ -7,7 +7,7 @@
 
 
 ![Simple](simple.svg)
-### Another example generated with Yed
+### Another example generated with yEd
 ![yEd](yed.svg)
 
 
