@@ -1,3 +1,6 @@
 # SVG Integration
 
-![SVG](simple.svg)
+![Simple](simple.svg)
+
+
+
