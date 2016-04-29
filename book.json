@@ -13,8 +13,11 @@
     },
     "pluginsConfig": {
       "edit-link": {
-                "base": "https://github.com/jp-a/github/edit/BRANCH/path/to/book",
+                "base": "https://github.com/jp-a/gitbook/edit/master/",
                 "label": "Edit This Page"
-            }
+            },
+      "github": {
+        "url": "https://github.com/reactjs/redux/"
+      }
     }
 }
