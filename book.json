@@ -6,7 +6,9 @@
         "-highlight",
         "github",
         "anker-enable",
-        "image-captions"
+        "image-captions",
+        "svg"
+        
     ],
     "structure": {
         "summary": "docs/SUMMARY.md"
